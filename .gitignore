@@ -1,0 +1,16 @@
+# n8n local files
+node_modules/
+*.log
+.n8n/
+
+# Security & Credentials (IMPORTANT)
+.env
+auth.json
+credentials.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Private Data
+backups/

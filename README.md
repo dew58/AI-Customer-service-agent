@@ -26,6 +26,7 @@ An intelligent automation system built with **n8n** that uses **Google Gemini LL
 
 ## 📐 Workflow Architecture
 
+<img width="946" height="385" alt="image" src="https://github.com/user-attachments/assets/600976ed-03de-4759-8ba8-447ddf98df0f" />
 
 ### Logic Flow:
 1.  **Trigger:** User sends a message on Telegram.
